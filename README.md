@@ -11,5 +11,5 @@
 ONLINE IT SELLING WEBSITE - Is website application consisting of different functionalities like fetching input data from the client after registering, displaying available products, giving urgent feedback to customers through automatic email reply after customer made self registration with full instructions on logistics as well as collecting clients' comments towards rendered services to him or her.
 
 Technological languages used;
-•	HTML, CSS, JSP and Oracle db with different APIs for running the system.
+•	HTML, CSS, JSP and Oracle db  and TOMCAT server with different APIs for running the system.
 
