@@ -7,6 +7,7 @@
 ![commentpage](https://user-images.githubusercontent.com/52234785/81473063-d76d2400-9204-11ea-8e52-743a9259aa9e.PNG)
 
 
+
 ONLINE IT SELLING WEBSITE - Is an website application consisting of different functionalities like fetching input data from the client after registering, displaying available products, giving urgent feedback to customers with full instructions on logistics as well as collecting clients' comments towards rendered services to him or her.
 
 Technological languages used;
