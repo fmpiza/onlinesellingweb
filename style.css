@@ -1,0 +1,35 @@
+body {
+    background-image: url('output-onlinepngtools.jpg');
+    background-size: 1920px 1080px;
+}
+
+/* RESPONSIVE RULES */
+@media screen and (max-width: 1920px){
+    
+}
+div {
+    margin-top: 40px;
+}
+container {
+    background-color: blue;
+    width: 800px;
+}
+
+header{
+    background-color: purple;
+    color:white;
+    text-align:center;
+}
+
+Nav{
+    background-color: blue;
+}
+
+Homepage{
+    width: 600px;
+    float: right;
+}
+
+footer{
+    clear: both;
+}
