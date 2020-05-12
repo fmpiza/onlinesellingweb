@@ -1,6 +1,6 @@
 # onlinesellingweb
 
-![homepage1](https://user-images.githubusercontent.com/52234785/81472942-f5865480-9203-11ea-8e73-e3619b7b5eed.PNG)
+![homepage - Google Chrome 5_12_2020 2_16_32 PM](https://user-images.githubusercontent.com/52234785/81717505-4fe11880-9483-11ea-82b9-761a56315f5f.gif)
 
 ![registrationpage](https://user-images.githubusercontent.com/52234785/81473212-96c1da80-9205-11ea-8ead-d90789d20aa7.PNG)
 
