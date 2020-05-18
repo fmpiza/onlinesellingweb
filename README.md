@@ -5,7 +5,7 @@ ONLINE IT SELLING WEBSITE - Is website application consisting of different funct
 
 Technological languages used; • HTML, CSS, JSP and Oracle db and TOMCAT server with different APIs for running the system
 
-![homepage - Google Chrome 5_12_2020 2_16_32 PM](https://user-images.githubusercontent.com/52234785/81717505-4fe11880-9483-11ea-82b9-761a56315f5f.gif)
+![homepage - Google Chrome 5_16_2020 4_43_50 PM](https://user-images.githubusercontent.com/52234785/82183413-99e85500-98ee-11ea-89a2-252cf5bdbcb5.gif)
 
 ![registrationpage](https://user-images.githubusercontent.com/52234785/81473212-96c1da80-9205-11ea-8ead-d90789d20aa7.PNG)
 
